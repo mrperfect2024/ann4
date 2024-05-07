@@ -1,0 +1,19 @@
+ART: 
+
+defination: Adaptive Resonance Theory (ART) Adaptive resonance theory is a type of neural network technique developed by Stephen Grossberg and Gail Carpenter in 1987. The basic ART uses unsupervised learning technique. The term “adaptive” and “resonance” used in this suggests that they are open to new learning(i.e. adaptive) without discarding the previous or the old information(i.e. resonance). 
+
+Types:
+ART1 – It is the simplest and the basic ART architecture. It is capable of clustering binary input values.
+ART2 – It is extension of ART1 that is capable of clustering continuous-valued input data.
+Fuzzy ART – It is the augmentation of fuzzy logic and ART.
+
+basic architecture: F1 layer f2 layer reset module: 
+F1 layer or the comparison field(where the inputs are processed)
+F2 layer or the recognition field (which consists of the clustering units)
+The Reset Module (that acts as a control mechanism)
+
+advantages: 
+1. stability 
+used in various fields like mobile robot, face recognition, etc. 
+
+limitations : Some ART networks are inconsistent (ART1, Fuzzy ART)
